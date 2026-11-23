@@ -4,12 +4,12 @@ An Arduino Uno scans for nearby objects with a servo-mounted HC-SR04 ultrasonic 
 
 ## Video demos
 
-Click a preview to watch the full clip. The GIFs show the first eight seconds of each recording.
+The previews show the first eight seconds of each recording. Download the original MP4 to watch the full clip with audio.
 
 | Demo 1 | Demo 2 | Demo 3 |
 | --- | --- | --- |
 | [![Demo 1 preview](demo-0273.gif)](IMG_0273.mp4) | [![Demo 2 preview](demo-0277.gif)](IMG_0277.mp4) | [![Demo 3 preview](demo-0279.gif)](IMG_0279.mp4) |
-| [Watch](IMG_0273.mp4) · [Download MP4](https://github.com/KhanhDo1609/Detect_distance_fan_controlling/raw/refs/heads/main/IMG_0273.mp4?download=1) | [Watch](IMG_0277.mp4) · [Download MP4](https://github.com/KhanhDo1609/Detect_distance_fan_controlling/raw/refs/heads/main/IMG_0277.mp4?download=1) | [Watch](IMG_0279.mp4) · [Download MP4](https://github.com/KhanhDo1609/Detect_distance_fan_controlling/raw/refs/heads/main/IMG_0279.mp4?download=1) |
+| [View file](IMG_0273.mp4) · [Download MP4](https://github.com/KhanhDo1609/Detect_distance_fan_controlling/raw/refs/heads/main/IMG_0273.mp4?download=1) | [View file](IMG_0277.mp4) · [Download MP4](https://github.com/KhanhDo1609/Detect_distance_fan_controlling/raw/refs/heads/main/IMG_0277.mp4?download=1) | [View file](IMG_0279.mp4) · [Download MP4](https://github.com/KhanhDo1609/Detect_distance_fan_controlling/raw/refs/heads/main/IMG_0279.mp4?download=1) |
 
 ## Build photos and wiring
 
